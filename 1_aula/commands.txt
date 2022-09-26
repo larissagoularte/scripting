@@ -1,5 +1,0 @@
-> - excluir criar novo arquivo
->> - append no arquivo existente
-< - abre ficheiro liga ao teclado e o programa digita
-2> - apaga ficheiro e envia para standart error
-sed -i '-e' '$ d' test.txt     -> apaga ultima linha de ficheiro
